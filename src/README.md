@@ -11,9 +11,7 @@ This document provides an overview of the source code for the MareAlb Project
 
 The `App.js` file is the main entry point of the React application. It sets up the basic structure and includes the `MapComponent`.
 
-### Code Explanation
-
-```javascript
+## Code Explanation
 
 - **Imports**: The necessary React components and CSS files are imported.
 - **App Component**: The main component that renders the header and the `MapComponent`.
